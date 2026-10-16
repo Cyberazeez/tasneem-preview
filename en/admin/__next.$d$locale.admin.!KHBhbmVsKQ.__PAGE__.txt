@@ -1,0 +1,33 @@
+3:"$Sreact.fragment"
+4:"/tasneem-preview/_next/static/chunks/3727-02i72m06.js"
+5:I[42194,["$4"],"default"]
+6:I[5817,["$4"],"default"]
+a:"/tasneem-preview/_next/static/chunks/3q2mmfcd8gcqg.js"
+b:"/tasneem-preview/_next/static/chunks/210-8yqwsr9rn.js"
+c:I[61681,["$a","$b"],"AdminShell"]
+f:I[84104,["$4"],"ClientPageRoot"]
+10:"/tasneem-preview/_next/static/chunks/0f26b40hrz6o3.js"
+11:I[5410,["$a","$b","$10"],"default"]
+14:I[13693,["$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[13693,["$4"],"$18"]
+1a:"MetadataBoundary"
+1b:I[13693,["$4"],"$1a"]
+8:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","$Lf",null,{"Component":"$11","serverProvidedParams":{"searchParams":{},"params":{"locale":"en"},"promises":["$@12","$@13"]}}],[["$","script","script-0",{"src":"/tasneem-preview/_next/static/chunks/0f26b40hrz6o3.js","async":true}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$8"}}]]
+9:[["children",{"s":"(panel)","h":96,"d":{"r":["$","$3","c",{"children":[[["$","script","script-0",{"src":"/tasneem-preview/_next/static/chunks/210-8yqwsr9rn.js","async":true}]],["$","$Lc",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]}]]}],"p":"$@d","v":null,"s":"$8"},"c":"$Qe"}]]
+2:[["children",{"s":"admin","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","div",null,{"className":"flex min-h-dvh flex-1 flex-col bg-mist","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":65584,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Admin | Tasneem Water"}],["$","meta","1",{"name":"description","content":"Order Tasneem bottled water online with fast delivery across Saudi Arabia."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"alternate","hrefLang":"ar","href":"/ar"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"/en"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$8"}},"a":"$@1d","u":"$@1e","b":"VGrA75lGasTHxCOuWeGJP"}
+12:{}
+13:"$e:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+16:null
+1e:true
+8:300
+8:C
+1d:0
+d:"$undefined"
+7:"$undefined"
+1c:"$undefined"
+17:"$undefined"
