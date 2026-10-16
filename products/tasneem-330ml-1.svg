@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <radialGradient id="bgtasneem330mla" cx="50%" cy="38%" r="70%">
+      <stop offset="0" stop-color="#F4FBFB"/><stop offset="1" stop-color="#DCEFF0"/>
+    </radialGradient>
+    <linearGradient id="glasstasneem330mla" x1="0" x2="1">
+      <stop offset="0" stop-color="#BFE6E8" stop-opacity=".9"/>
+      <stop offset=".45" stop-color="#F7FDFD" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#A9DADD" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bgtasneem330mla)"/>
+  <ellipse cx="400" cy="705" rx="250" ry="22" fill="#0B1F2A" opacity=".07"/>
+  <g>
+    <path d="M377.2,328
+    C377.2,380.8 340,388.40000000000003 340,434
+    L340,682 Q340,700 358,700
+    L442,700 Q460,700 460,682
+    L460,434
+    C460,388.40000000000003 422.8,380.8 422.8,328 Z" fill="url(#glasstasneem330mla)" stroke="#8CCBCF" stroke-width="2"/>
+    
+    <rect x="373.2" y="300" width="53.6" height="30" rx="6" fill="#0E7C86"/>
+    <rect x="340" y="491" width="120" height="91.2" fill="#0E7C86"/>
+    <path d="M400,511.064 c-10,14 -14,20 -14,28 a14,14 0 0 0 28,0 c0,-8 -4,-14 -14,-28z" fill="#fff"/>
+    <rect x="346" y="434" width="8" height="209.00000000000003" rx="4" fill="#fff" opacity=".7"/>
+  </g><text x="400" y="770" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" fill="#0B1F2A" opacity=".45" letter-spacing="2">PLACEHOLDER · 330 ml</text></svg>

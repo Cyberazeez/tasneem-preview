@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <radialGradient id="bgtasneemsport500mla" cx="50%" cy="38%" r="70%">
+      <stop offset="0" stop-color="#F4FBFB"/><stop offset="1" stop-color="#DCEFF0"/>
+    </radialGradient>
+    <linearGradient id="glasstasneemsport500mla" x1="0" x2="1">
+      <stop offset="0" stop-color="#BFE6E8" stop-opacity=".9"/>
+      <stop offset=".45" stop-color="#F7FDFD" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#A9DADD" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bgtasneemsport500mla)"/>
+  <ellipse cx="400" cy="705" rx="250" ry="22" fill="#0B1F2A" opacity=".07"/>
+  <g>
+    <path d="M375.3,258
+    C375.3,322 335,331 335,385
+    L335,682 Q335,700 353,700
+    L447,700 Q465,700 465,682
+    L465,385
+    C465,331 424.7,322 424.7,258 Z" fill="url(#glasstasneemsport500mla)" stroke="#8CCBCF" stroke-width="2"/>
+    
+    <rect x="371.3" y="214" width="57.4" height="46" rx="6" fill="#163A4A"/>
+    <rect x="335" y="452.5" width="130" height="108" fill="#0E7C86"/>
+    <path d="M400,476.26 c-10,14 -14,20 -14,28 a14,14 0 0 0 28,0 c0,-8 -4,-14 -14,-28z" fill="#fff"/>
+    <rect x="341" y="385" width="8" height="247.50000000000003" rx="4" fill="#fff" opacity=".7"/>
+  </g><text x="400" y="770" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" fill="#0B1F2A" opacity=".45" letter-spacing="2">PLACEHOLDER · 500 ml</text></svg>

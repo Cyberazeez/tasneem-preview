@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <radialGradient id="bgtasneem500mlb" cx="50%" cy="38%" r="70%">
+      <stop offset="0" stop-color="#F4FBFB"/><stop offset="1" stop-color="#DCEFF0"/>
+    </radialGradient>
+    <linearGradient id="glasstasneem500mlb" x1="0" x2="1">
+      <stop offset="0" stop-color="#BFE6E8" stop-opacity=".9"/>
+      <stop offset=".45" stop-color="#F7FDFD" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#A9DADD" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bgtasneem500mlb)"/>
+  <ellipse cx="400" cy="705" rx="250" ry="22" fill="#0B1F2A" opacity=".07"/>
+  <g>
+    <path d="M261.334,355.24
+    C261.334,405.16 229.90000000000003,412.18 229.90000000000003,454.3
+    L229.90000000000003,685.96 Q229.90000000000003,700 243.94000000000003,700
+    L317.26,700 Q331.3,700 331.3,685.96
+    L331.3,454.3
+    C331.3,412.18 299.86600000000004,405.16 299.86600000000004,355.24 Z" fill="url(#glasstasneem500mlb)" stroke="#8CCBCF" stroke-width="1.56"/>
+    
+    <rect x="258.214" y="333.40000000000003" width="44.772000000000006" height="23.400000000000002" rx="4.68" fill="#0E7C86"/>
+    <rect x="229.90000000000003" y="506.95000000000005" width="101.4" height="84.24" fill="#0E7C86"/>
+    <path d="M280.6,525.4828 c-7.800000000000001,10.92 -10.92,15.600000000000001 -10.92,21.84 a10.92,10.92 0 0 0 21.84,0 c0,-6.24 -3.12,-10.92 -10.92,-21.84z" fill="#fff"/>
+    <rect x="234.58000000000004" y="454.3" width="6.24" height="193.05" rx="3.12" fill="#fff" opacity=".7"/>
+  </g>
+  <g>
+    <path d="M380.734,355.24
+    C380.734,405.16 349.3,412.18 349.3,454.3
+    L349.3,685.96 Q349.3,700 363.34000000000003,700
+    L436.65999999999997,700 Q450.7,700 450.7,685.96
+    L450.7,454.3
+    C450.7,412.18 419.266,405.16 419.266,355.24 Z" fill="url(#glasstasneem500mlb)" stroke="#8CCBCF" stroke-width="1.56"/>
+    
+    <rect x="377.614" y="333.40000000000003" width="44.772000000000006" height="23.400000000000002" rx="4.68" fill="#0E7C86"/>
+    <rect x="349.3" y="506.95000000000005" width="101.4" height="84.24" fill="#0E7C86"/>
+    <path d="M400,525.4828 c-7.800000000000001,10.92 -10.92,15.600000000000001 -10.92,21.84 a10.92,10.92 0 0 0 21.84,0 c0,-6.24 -3.12,-10.92 -10.92,-21.84z" fill="#fff"/>
+    <rect x="353.98" y="454.3" width="6.24" height="193.05" rx="3.12" fill="#fff" opacity=".7"/>
+  </g>
+  <g>
+    <path d="M500.13399999999996,355.24
+    C500.13399999999996,405.16 468.7,412.18 468.7,454.3
+    L468.7,685.96 Q468.7,700 482.74,700
+    L556.0600000000001,700 Q570.1,700 570.1,685.96
+    L570.1,454.3
+    C570.1,412.18 538.6659999999999,405.16 538.6659999999999,355.24 Z" fill="url(#glasstasneem500mlb)" stroke="#8CCBCF" stroke-width="1.56"/>
+    
+    <rect x="497.01399999999995" y="333.40000000000003" width="44.772000000000006" height="23.400000000000002" rx="4.68" fill="#0E7C86"/>
+    <rect x="468.7" y="506.95000000000005" width="101.4" height="84.24" fill="#0E7C86"/>
+    <path d="M519.4,525.4828 c-7.800000000000001,10.92 -10.92,15.600000000000001 -10.92,21.84 a10.92,10.92 0 0 0 21.84,0 c0,-6.24 -3.12,-10.92 -10.92,-21.84z" fill="#fff"/>
+    <rect x="473.38" y="454.3" width="6.24" height="193.05" rx="3.12" fill="#fff" opacity=".7"/>
+  </g><text x="400" y="770" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" fill="#0B1F2A" opacity=".45" letter-spacing="2">PLACEHOLDER · PACK</text></svg>
