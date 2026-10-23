@@ -1,0 +1,31 @@
+4:"$Sreact.fragment"
+5:"/tasneem-preview/_next/static/chunks/13_an0f2ztgqb.js"
+6:I[77420,["$5"],"default"]
+7:I[44976,["$5"],"default"]
+c:"/tasneem-preview/_next/static/chunks/3tcbtdqm6kelc.js"
+d:"/tasneem-preview/_next/static/chunks/3y5n7_wq3rz_d.js"
+e:"/tasneem-preview/_next/static/chunks/1bwoz9wbv11oj.js"
+f:"/tasneem-preview/_next/static/chunks/2_e9icgq-j5fu.js"
+10:I[19406,["$c","$d","$e","$f"],"BusinessForm"]
+11:I[16242,["$5"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[16242,["$5"],"$15"]
+17:"MetadataBoundary"
+18:I[16242,["$5"],"$17"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[[["$","div",null,{"className":"container-x pt-8 pb-6 sm:pt-12","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"Water for your business"}],["$","p",null,{"className":"mt-3 max-w-2xl text-ink-soft","children":"Volume pricing, recurring delivery and monthly VAT invoices for offices, restaurants, schools, mosques and events."}]]}],["$","div",null,{"className":"container-x grid gap-8 lg:grid-cols-[1fr_480px] lg:items-start","children":[["$","ul",null,{"className":"grid gap-4 sm:grid-cols-2","children":[["$","li","Volume pricing",{"className":"rounded-card bg-mist p-6","data-reveal":true,"children":[["$","span",null,{"className":"grid size-10 place-items-center rounded-full bg-white text-lagoon","children":["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.8,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M5 12.5l4.5 4.5L19 7.5"}]}]}],["$","h2",null,{"className":"mt-4 font-semibold","children":"Volume pricing"}],["$","p",null,{"className":"mt-1.5 text-ink-soft text-pretty","children":"Better prices as your monthly volume grows."}]]}],["$","li","Recurring delivery",{"className":"rounded-card bg-mist p-6","data-reveal":true,"children":[["$","span",null,{"className":"grid size-10 place-items-center rounded-full bg-white text-lagoon","children":["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.8,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M5 12.5l4.5 4.5L19 7.5"}]}]}],["$","h2",null,{"className":"mt-4 font-semibold","children":"Recurring delivery"}],["$","p",null,{"className":"mt-1.5 text-ink-soft text-pretty","children":"Weekly or monthly, on a fixed day and time."}]]}],["$","li","Monthly invoicing",{"className":"rounded-card bg-mist p-6","data-reveal":true,"children":[["$","span",null,{"className":"grid size-10 place-items-center rounded-full bg-white text-lagoon","children":["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.8,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M5 12.5l4.5 4.5L19 7.5"}]}]}],["$","h2",null,{"className":"mt-4 font-semibold","children":"Monthly invoicing"}],["$","p",null,{"className":"mt-1.5 text-ink-soft text-pretty","children":"One VAT invoice per month for your accounts team."}]]}],["$","li","Custom labels",{"className":"rounded-card bg-mist p-6","data-reveal":true,"children":[["$","span",null,{"className":"grid size-10 place-items-center rounded-full bg-white text-lagoon","children":["$","svg",null,{"width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.8,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"children":["$","path",null,{"d":"M5 12.5l4.5 4.5L19 7.5"}]}]}],["$","h2",null,{"className":"mt-4 font-semibold","children":"Custom labels"}],["$","p",null,{"className":"mt-1.5 text-ink-soft text-pretty","children":"Your logo on 200 ml and 330 ml bottles for events (minimum quantities apply)."}]]}]]}],["$","$L10",null,{}]]}]],[["$","script","script-0",{"src":"/tasneem-preview/_next/static/chunks/2_e9icgq-j5fu.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$a"}}]]
+3:[["children",{"s":"business","h":64,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+2:[["children",{"s":"(store)","c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":65584,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Water for your business | Tasneem Water"}],["$","meta","1",{"name":"description","content":"Order Tasneem bottled water online with fast delivery across Saudi Arabia."}],["$","link","2",{"rel":"alternate","hrefLang":"ar","href":"/ar"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"/en"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$a"}},"a":"$@1a","u":"$@1b","b":"UqSdWHSnw8oAa7sAQbf-H"}
+13:null
+1b:true
+a:300
+a:C
+1a:0
+8:"$undefined"
+19:"$undefined"
+14:"$undefined"
